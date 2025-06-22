@@ -6,8 +6,7 @@ This is a simple real-time chat application built with **Node.js**, **Express**,
 
 ## 🚀 Live Demo
 
-🌐 [View Live on Render](https://your-app-name.onrender.com)  
-_Replace this with your actual Render URL after deployment._
+🌐 [Viewthe Chat-app Live on]([https://your-app-name.onrender.com](https://hackweek-day-1-real-time-chat-room-using.onrender.com))  
 
 ---
 
@@ -17,8 +16,8 @@ _Replace this with your actual Render URL after deployment._
 chat-app/
 ├── public/
 │   ├── index.html
-│   ├── style.css
-│   └── script.js
+│   ├── styles.css
+│   └── client.js
 ├── server.js
 ├── package.json
 ```
@@ -47,7 +46,7 @@ chat-app/
    npm start
    ```
 
-4. **Visit the app**
+4. **How to use**
    👉 Open two separate browser tabs at [https://hackweek-day-1-real-time-chat-room-using.onrender.com](https://hackweek-day-1-real-time-chat-room-using.onrender.com) and send messages from one tab to see them instantly appear in the other — testing real-time send and receive. ✅
    
 ---
