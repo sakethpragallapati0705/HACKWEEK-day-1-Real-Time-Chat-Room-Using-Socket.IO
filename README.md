@@ -6,7 +6,7 @@ This is a simple real-time chat application built with **Node.js**, **Express**,
 
 ## 🚀 Live Demo
 
-🌐 [Viewthe Chat-app Live on](https://hackweek-day-1-real-time-chat-room-using.onrender.com)  
+🌐 [Click Here to view the Live app](https://hackweek-day-1-real-time-chat-room-using.onrender.com)  
 
 ---
 
