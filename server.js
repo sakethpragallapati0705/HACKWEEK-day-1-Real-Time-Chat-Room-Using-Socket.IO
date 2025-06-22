@@ -17,11 +17,14 @@ io.on('connection', (socket) => {
             senderId: socket.id
         });
     });
+
     socket.on('disconnect', () => {
         console.log('A user disconnected');
     });
 });
-const PORT = 3000;
+
+
+const PORT = process.env.PORT || 3000;
 server.listen(PORT, () => {
     console.log(`Server running on http://localhost:${PORT}`);
 });
